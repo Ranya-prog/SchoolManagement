@@ -1,0 +1,38 @@
+body {
+  background-color: lightblue; /* Couleur de fond de toute la page */
+  margin: 0;
+
+}
+
+.header {
+  background-color: darkblue; 
+  color: white;
+  padding: 16px;
+  text-align: center;
+}
+.class1 {
+  color :rgb(157, 98, 189);
+  text-align: left;
+
+}
+.submenu {
+  margin-top: 5px;
+  padding-left: 20px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
+.menu-item {
+  font-size: 20px; 
+}
+
+.submenu {
+  font-size: 16px;
+}
+
+.submenu li {
+  margin: 5px 0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
